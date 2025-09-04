@@ -55,7 +55,6 @@
     </td>    
     <td align='center'>
         <img src="<img width="640" height="338" alt="image" src="https://github.com/user-attachments/assets/16e584a2-0dd6-482f-b3bd-0baea4c4aa1a" />
-">
     </td>
 </tr>
 
