@@ -23,7 +23,6 @@
 <tr>
     <td align='center' width="200">
         <img src="https://img.drz.lazcdn.com/static/pk/p/df8552587745725e713f77305a37e78e.jpg_720x720q80.jpg" />
-" >
     </td>
 
   <td align='center' width="200">
