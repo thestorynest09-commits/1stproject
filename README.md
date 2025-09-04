@@ -32,7 +32,7 @@
         <img src="https://images-cdn.ubuy.co.in/65372d0b5c1c3c4e916aac9c-upgraded-telephone-corded-phone-dual.jpg">
     </td>
  <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
+        <img src="https://m.media-amazon.com/images/I/61kItvCzk+L._AC_SL1001_.jpg">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
