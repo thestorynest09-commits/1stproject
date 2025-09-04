@@ -54,7 +54,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FPinecone-Primary-Logo-White.png?alt=media&token=83a42d53-6832-4da8-b5ee-db7fb310b4a7">
     </td>    
     <td align='center'>
-        <img src="<img width="640" height="338" alt="image" src="https://github.com/user-attachments/assets/16e584a2-0dd6-482f-b3bd-0baea4c4aa1a" />
+        <img src="<img width="640"height="338" alt="image" src="https://github.com/user-attachments/assets/16e584a2-0dd6-482f-b3bd-0baea4c4aa1a" />
     </td>
 </tr>
 
