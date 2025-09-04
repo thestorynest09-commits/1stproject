@@ -29,7 +29,7 @@
         <img src="https://m.media-amazon.com/images/I/71YO6nI8d0L._AC_SL1500_.jpg"  >
     </td>
  <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
+        <img src="https://images-cdn.ubuy.co.in/65372d0b5c1c3c4e916aac9c-upgraded-telephone-corded-phone-dual.jpg">
     </td>
  <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
