@@ -9,7 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Studying at @ZABIST 🤖
+🤵 Studying at SMIT Quetta 🤖
 	
 👨‍💻 AI Engineer CargoAI
 	
