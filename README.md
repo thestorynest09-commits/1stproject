@@ -17,7 +17,7 @@
 
 📧  Call for Any Querry 03453288522
  
-<h2>Tech Stack</h2>
+<h2>Submitt Your Querry Regarding</h2>
 
 <table width="100">
 <tr>
