@@ -11,11 +11,11 @@
 
 🤵 Studying at SMIT Quetta 🤖
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻Assistant Hardware Engineer
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 Help Over All Adminstrative & Faculty Member
 
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
+📧  Call for Any Querry 03453288522
  
 <h2>Tech Stack</h2>
 
